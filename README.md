@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+-  This data analyst has impactful Excel and Power BI skills and is currently honing practical knowledge of SQL. As always, I am open to learning
 <!--
 **jjuleeyah/jjuleeyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
